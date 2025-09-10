@@ -34,7 +34,6 @@ Whether you're learning how transformers work, testing text generation behavior,
 
 ## 🛠️ How to Use
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/gpt2-playground.git
-   cd gpt2-playground
+Just clone the repo and run all the cells of gpt.ipynb ,change the parameters and observe how the model works.
+
+   
