@@ -35,6 +35,6 @@ Whether you're learning how transformers work, testing text generation behavior,
 ## 🛠️ How to Use
 
 Just clone the repo and run all the cells of gpt.ipynb ,change the parameters and observe how the model works.
-#Change the text in the last cell and run it.
+**Change the text in the last cell and run it.**
 
    
